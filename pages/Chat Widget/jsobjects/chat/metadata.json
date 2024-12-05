@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "6751538f3f20503719807922_177d306b-9098-4104-bb03-a28095776dec",
+  "id": "Chat Widget_chat",
+  "unpublishedCollection": {
+    "name": "chat",
+    "pageId": "Chat Widget",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "appname",
+        "value": "\"appsmith-chat-widget\""
+      },
+      {
+        "name": "maxResponses",
+        "value": "5"
+      },
+      {
+        "name": "history",
+        "value": "[{\n  role: \"CHATBOT\",\n  message: \"How can I help you today?\"\n}]"
+      }
+    ]
+  }
+}

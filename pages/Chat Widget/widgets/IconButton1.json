@@ -1,0 +1,38 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 83,
+  "boxShadow": "none",
+  "buttonColor": "#71717a",
+  "buttonVariant": "TERTIARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "iconName": "help",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "kvbiz24w9m",
+  "leftColumn": 22,
+  "minWidth": 50,
+  "mobileBottomRow": 83,
+  "mobileLeftColumn": 22,
+  "mobileRightColumn": 26,
+  "mobileTopRow": 79,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 12.3125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 26,
+  "tooltip": "This chat app is limited to 5 responses. Fork this app to remove this limitation.",
+  "topRow": 79,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "ta0ldvemo3",
+  "widgetName": "IconButton1"
+}
